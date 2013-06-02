@@ -1,4 +1,4 @@
-Boilerplate Mini
+Staddle Mini
 ================
 
-A mini HTML5 boilerplate for mini projects and demos.
+A mini HTML5 template for small projects and demos.
